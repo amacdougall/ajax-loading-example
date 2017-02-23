@@ -1,0 +1,15 @@
+ul.content-nav {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.content-nav li {
+  display: inline;
+  padding: 0.25rem;
+  background-color: blue;
+  color: white;
+}
+
+#content img {
+  width: 500px;
+}
